@@ -12,7 +12,7 @@ En fullstack eiendomsapplikasjon for å vise og filtrere boliger.
 ## Tech Stack (Planlagt)
 - Backend: .NET 8 Web API
 - Frontend: React + TypeScript
-- Database: SQLite (MVP) → PostgreSQL (production)
+- Database: PostgreSQL (MVP & Production)
 
 ## Opprettelse
 ```bash
